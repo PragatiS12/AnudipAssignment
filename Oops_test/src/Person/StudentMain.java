@@ -8,7 +8,7 @@ public class StudentMain {
 		
         //Instantiation of students
 		Student s1=new Student("Mohan",20,"9075685545","11",subjects);
-		Student s2=new Student("tiki",22,"8866495799","10",subjects);
+		Student s2=new Student("Rohan",22,"8866495799","10",subjects);
 
 //Printing the students details
 		System.out.println(s1);
